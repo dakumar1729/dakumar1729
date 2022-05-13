@@ -2,7 +2,7 @@
 
 # Hey there,my self Anil Kumnar Dyavanapalli 👨‍💻
 
--  I’m currently working on Node.js
+-  I’m currently working with Javascript & Typescript (Node,MongoDB,Angular)
 -  I'm learning DevOps and React Native as well...💪
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
