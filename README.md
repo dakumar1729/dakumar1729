@@ -21,11 +21,10 @@
   </a>
 <a href="https://www.postgresql.org/">
     <img height="35px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a><br/>
-  
+  </a>
 <a href="https://nodered.org/">
     <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png">
-  </a>
+  </a><br>
   <a  href="https://www.javascript.com/">
     <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
