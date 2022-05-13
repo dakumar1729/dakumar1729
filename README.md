@@ -10,6 +10,26 @@
 <img height="35px" src="https://komarev.com/ghpvc/?username=dakumar1729&label=Profile%20views&color=0e75b6&style=flat" alt="dakumar1729" />
 
 ## Tech Stack
+<a href="https://nodejs.org/en/docs/">
+    <img height="35px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a><br/>
+ <a href="https://angular.io/guide/what-is-angular">
+    <img height="35px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a><br/>
+<a href="https://www.mongodb.com/docs/">
+    <img height="35px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a><br/>
+  
+  
+<a href="https://nodejs.org/en/docs/">
+    <img height="35px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a><br/>
+<a href="https://nodejs.org/en/docs/">
+    <img height="35px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a><br/>
+  
+  
+  
 <a href="https://docs.swmansion.com/react-native-reanimated/">
     <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
