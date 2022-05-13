@@ -40,12 +40,12 @@
     <img height="35px" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   
-  <a href="https://www.framer.com/motion/">
+<!--   <a href="https://www.framer.com/motion/">
    <img height="35px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
   </a>
   <a href="https://tailwindcss.com/">
     <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a>
+  </a> -->
   <br/>
 <a href="https://docs.swmansion.com/react-native-reanimated/">
     <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
