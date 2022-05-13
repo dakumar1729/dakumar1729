@@ -36,9 +36,9 @@
     <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
   <br/>
-  <a href="https://firebase.google.com/">
+<!--   <a href="https://firebase.google.com/">
     <img height="35px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  </a><br/>
+  </a><br/> -->
   <a  href="https://www.javascript.com/">
     <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
@@ -46,12 +46,12 @@
     <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a><br/>
   
-  <a href="https://www.java.com/en/">
+<!--   <a href="https://www.java.com/en/">
     <img height="35px" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
+  </a> -->
+<!--   <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
     <img height="35px" alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a><br/>
+  </a><br/> -->
    <a href="https://www.w3schools.com/html/">
     <img  height="35px" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
@@ -71,7 +71,7 @@
     
     
     
- ## Compititive Programming 
+<!--  ## Compititive Programming 
 
 - 5⭐in Java on 
     <a href="https://www.hackerrank.com/pavitra_Behara?hr_r=1">
@@ -80,26 +80,26 @@
 - 2⭐(Beginner) on
    <a href="https://www.codechef.com/users/pavitra_2003">
     <img alt="" height="35px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
-  </a><br/>  
+  </a><br/>   -->
     
 ## Study's
-- Currently, I am purchasing B.Tech from 
-  <a href="https://www.soa.ac.in/">
-    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+- M.C.A from 
+  <a href="https://kakatiya.ac.in/about_dept/39/dept">
+   Department of Computer Science, Kakatiya University, Warangal (Telangana) India.
   </a>
 
 ## Contact me
 
-  <a href="https://twitter.com/behara_pavitra">
+  <a href="https://twitter.com/anil_ku_in">
     <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
+  <a href="https://www.linkedin.com/in/dakumar1729/">
     <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/pavitra.js/">
+  <a href="https://www.instagram.com/looser_7_/">
     <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.pavitraredmi@gmail.com">
+  <a href="mail:dakumar1729@gmail.com">
     <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
@@ -107,13 +107,13 @@
   
 ## GitHub Stats
 
-[![Pavitra's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Pavitra554)](https://github.com/anuraghazra/github-readme-stats)
+[![Pavitra's wakatime stats](https://github-readme-stats.vercel.app/api/?username=dakumar1729)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakumar1729&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)    
     
 ## GitHub Info
- <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavitra554&theme=vue">
+ <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakumar1729&theme=vue">
     
 ## Thanks for visiting🤗
 
