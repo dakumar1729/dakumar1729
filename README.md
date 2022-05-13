@@ -26,8 +26,21 @@
     <img height="35px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a><br/>
   
+  <a  href="https://www.javascript.com/">
+    <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a  href="https://www.typescriptlang.org/">
+    <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a><br/>
   
   
+  <a href="https://www.framer.com/motion/">
+   <img height="35px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+  <br/>
 <a href="https://docs.swmansion.com/react-native-reanimated/">
     <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
@@ -47,22 +60,9 @@
     <img height="35px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   </a>
   <br/>
-  <a href="https://www.framer.com/motion/">
-   <img height="35px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a>
-  <br/>
 <!--   <a href="https://firebase.google.com/">
     <img height="35px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a><br/> -->
-  <a  href="https://www.javascript.com/">
-    <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a  href="https://www.typescriptlang.org/">
-    <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a><br/>
   
 <!--   <a href="https://www.java.com/en/">
     <img height="35px" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
