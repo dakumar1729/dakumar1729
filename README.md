@@ -20,7 +20,7 @@
     <img height="35px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </a><br/>  
 <a href="https://nodered.org/">
-    <img height="35px" src="https://en.wikipedia.org/wiki/Node-RED#/media/File:Node-red-icon.png">
+    <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png">
   </a><br/>
   
 <a href="https://nodejs.org/en/docs/">
