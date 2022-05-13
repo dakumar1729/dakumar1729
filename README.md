@@ -13,18 +13,17 @@
 <a href="https://nodejs.org/en/docs/">
     <img height="35px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
-<a href="https://nodered.org/">
-    <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png">
-  </a><br/>
  <a href="https://angular.io/guide/what-is-angular">
     <img height="35px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a><br>
+<a href="https://nodered.org/">
+    <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png">
   </a>
 <a href="https://www.mongodb.com/docs/">
     <img height="35px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a><br/>  
-  
-<a href="https://nodejs.org/en/docs/">
-    <img height="35px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+<a href="https://www.postgresql.org/">
+    <img height="35px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a><br/>
   
   
