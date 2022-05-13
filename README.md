@@ -60,11 +60,11 @@
   </a>
   
 ## Tool's
-<a><img style="margin:10px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<!-- <a><img style="margin:10px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> -->
 <a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<!-- <a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
 <a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-<a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+<!-- <a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> -->
 <a><img style="margin:10px;" height="60px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
 
 
@@ -99,7 +99,7 @@
   <a href="https://www.instagram.com/looser_7_/">
     <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mail:dakumar1729@gmail.com">
+  <a href="mailto:dakumar1729@gmail.com">
     <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
